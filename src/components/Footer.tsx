@@ -9,7 +9,7 @@ const Footer = () => {
         </p>
         <p className="text-sm md:text-base mb-2">
           <a 
-            href="mailto:pauloveloso@adv.com.br" 
+            href="mailto:contato@paulovelosoadv.com.br" 
             className="text-blue-300 hover:underline"
           >
             pauloveloso@adv.com.br
